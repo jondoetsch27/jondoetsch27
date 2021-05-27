@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jondoetsch27
-- 👀 I’m interested in building my Java and Kotlin skills
-- 🌱 I’m currently learning Kotlin
+- 👀 I’m interested in building my Spring and Kotlin skills
+- 🌱 I’m currently learning Spring Cloud
 - 💞️ I’m looking to collaborate on anything related to fantasy football
 - 📫 How to reach me -> jonathon.doetsch@gmail.com
 
